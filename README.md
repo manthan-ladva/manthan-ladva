@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Databricks
 - 🌱 I’m currently learning Data Engineering & Data Analysis.
 - 💬 Ask me about MIS Reporting and Automation
-- ⚡ Fun fact: I Love Anime & Paneer Biryani.
+- ⚡ Fun fact: I ❤️ Anime & Paneer Biryani.
 <br/>
 
 
@@ -27,19 +27,19 @@
 <hr/>
 
 
-### ⚙ Languages & Tools:
-### -> Languages
+### ⚙ Languages & Tools Proficiency:
+### -> Languages 👨‍💻
 [<img align="left" alt="python" width="33px" src="https://i.imgur.com/gixjL0a.png" />][Python]
 [<img align="left" alt="R" width="33px" src="https://i.imgur.com/LGgB5r4.png" />][R]
 [<img align="left" alt="SQL" width="33px" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" />][SQL]
 <br/>
 <br/>
 
-### -> Tools
+### -> Tools 🔧
 [<img align="left" alt="Pycharm" width="33px" src="https://i.imgur.com/N3UnDaG.png" />][PyCharm]
 [<img align="left" alt="vscode" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
 [<img align="left" alt="Jupyter" width="33px" src="https://i.imgur.com/f5M1VWO.png" />][Jupyter]
-[<img align="left" alt="anaconda" width="33px" src="https://i.imgur.com/SUxYIXm.png" />][Anaconda]
+[<img align="left" alt="anaconda" width="40px" src="https://i.imgur.com/SUxYIXm.png" />][Anaconda]
 <br/>
 <br/>
 [<img align="left" alt="Notepad++" width="33px" src="https://i.imgur.com/s8PYCpN.png" />][Notepad++]
@@ -48,25 +48,53 @@
 <br/>
 <br/>
 
-### -> Databases & Data Analysis Tools
+### -> Databases & Data Analysis Tools 📀
 [<img align="left" alt="PostgreSQL" width="33px" src="https://marketplacedesignoye.s3.ap-south-1.amazonaws.com/postgresql-branding-icon-symbol-logo-vector-.png" />][PostgreSQL]
-[<img align="left" alt="MySQL" width="33px" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" />][MySQL]
+[<img align="left" alt="MySQL" width="50px" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" />][MySQL]
 [<img align="left" alt="Azure SQL" width="25px" src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png"/>][Azure SQL]
 [<img align="left" alt="MongoDB" width="33px" src="https://i.imgur.com/uyStyoI.png" />][MongoDB]
 <br/>
 <br/>
 [<img align="left" alt="PowerBI" width="33px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXEP5WbA4TSdCk6mto1DGXufJcV4KXpS5SRePtn4fGDDdR_zd8UmmtnbWg-DLztcyHDWo"/>][PowerBI]
+[<img align="left" alt="LS" width="80px" border="1" cellpadding="4" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/2560px-Looker.svg.png"/>][Looker Studio]
 [<img align="left" alt="Excel" width="60px" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png"/>][Excel]
-[<img align="left" alt="LS" width="75px" border="1" cellpadding="4" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/2560px-Looker.svg.png"/>][Looker Studio]
 <br />
 <br />
-[<img align="left" alt="Pandas" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png"/>][Pandas]
+[<img align="left" alt="Pandas" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png"/>][Pandas]
 <br />
 <br />
-### -> Cloud Tools
-[<img align="left" alt="a" width="55px" src="https://www.business-central-app.it/wp-content/uploads/2021/12/logo-azure.png"/>][Azure]
+### -> Cloud Tools 🌥️
+[<img align="left" alt="Azure" width="33px" src="https://www.c-sharpcorner.com/UploadFile/BlogImages/01232023170209PM/Azure%20Icon.png"/>][Azure]
+[<img align="left" alt="Azure Storage Account" width="33px" src="https://i0.wp.com/mattruma.com/wp-content/uploads/2020/02/Icon-storage-86-Storage-Accounts-1.png?fit=400%2C400&ssl=1"/>][Azure Storage Account]
+[<img align="left" alt="Azure VM" width="33px" src="https://static-00.iconduck.com/assets.00/azure-vms-color-icon-2048x1891-chkcdc9i.png"/>][Azure VM]
+[<img align="left" alt="Azure Data Factory" width="33px" src="https://seeklogo.com/images/A/azure-data-factory-logo-06B3BC2DAD-seeklogo.com.png"/>][Azure Data Factory]
+[<img align="left" alt="Azure Storage Account" width="33px" src="https://seeklogo.com/images/A/azure-synapse-analytics-logo-B87A556A9C-seeklogo.com.png"/>][Azure Synapse Analytics]
+[<img align="left" alt="Azure Databricks" width="33px" src="https://asset.brandfetch.io/idSUrLOWbH/idIDtj7hqp.png"/>][Azure Databricks]
+<br/>
+<!--<br/>
+[<img align="left" alt="Azure" width="33px" src="https://www.c-sharpcorner.com/UploadFile/BlogImages/01232023170209PM/Azure%20Icon.png"/>][Azure]
 [<img align="left" alt="Azure Storage Account" width="33px" src="https://i0.wp.com/mattruma.com/wp-content/uploads/2020/02/Icon-storage-86-Storage-Accounts-1.png?fit=400%2C400&ssl=1"/>][Azure Storage Account]
 [<img align="left" alt="VM" width="33px" src="https://static-00.iconduck.com/assets.00/azure-vms-color-icon-2048x1891-chkcdc9i.png"/>][Azure VM]
+[<img align="left" alt="Azure Data Factory" width="33px" src="https://seeklogo.com/images/A/azure-data-factory-logo-06B3BC2DAD-seeklogo.com.png"/>][Azure Data Factory]
+[<img align="left" alt="Azure Storage Account" width="33px" src="https://seeklogo.com/images/A/azure-synapse-analytics-logo-B87A556A9C-seeklogo.com.png"/>][Azure Synapse Analytics]
+[<img align="left" alt="VM" width="33px" src="https://static-00.iconduck.com/assets.00/azure-vms-color-icon-2048x1891-chkcdc9i.png"/>][Azure VM]
+<br/>
+<br/>
+[<img align="left" alt="Azure" width="33px" src="https://www.c-sharpcorner.com/UploadFile/BlogImages/01232023170209PM/Azure%20Icon.png"/>][Azure]
+[<img align="left" alt="Azure Storage Account" width="33px" src="https://i0.wp.com/mattruma.com/wp-content/uploads/2020/02/Icon-storage-86-Storage-Accounts-1.png?fit=400%2C400&ssl=1"/>][Azure Storage Account]
+[<img align="left" alt="VM" width="33px" src="https://static-00.iconduck.com/assets.00/azure-vms-color-icon-2048x1891-chkcdc9i.png"/>][Azure VM]
+[<img align="left" alt="Azure Data Factory" width="33px" src="https://seeklogo.com/images/A/azure-data-factory-logo-06B3BC2DAD-seeklogo.com.png"/>][Azure Data Factory]
+[<img align="left" alt="Azure Storage Account" width="33px" src="https://seeklogo.com/images/A/azure-synapse-analytics-logo-B87A556A9C-seeklogo.com.png"/>][Azure Synapse Analytics]
+[<img align="left" alt="VM" width="33px" src="https://static-00.iconduck.com/assets.00/azure-vms-color-icon-2048x1891-chkcdc9i.png"/>][Azure VM]
+-->
+<!--
+<hr/>
+<details>
+  <summary>:🥇Certifications</summary>
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manthan-ladva&show_icons=true&hide_border=true&hide=stars,prs,issues&theme=radical" />
+</details>
+-->
+
 
 <br/>
 
@@ -108,3 +136,6 @@
 [Excel]:https://www.microsoft.com/en-in/microsoft-365/excel/
 [Looker Studio]:https://lookerstudio.google.com/u/0/navigation/reporting/
 [Pandas]:https://pandas.pydata.org/
+[Azure Data Factory]:https://azure.microsoft.com/en-in/products/data-factory/
+[Azure Synapse Analytics]:https://azure.microsoft.com/en-us/products/synapse-analytics/
+[Azure Databricks]:https://www.databricks.com/
