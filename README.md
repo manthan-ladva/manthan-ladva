@@ -1,9 +1,10 @@
-### Hi there, I am Manthan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I am Manthan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### I am a Data Wizard. 
+
 [<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVibjByYXdhZW42YWc5aWttaGsxZW0zb3BwZ2F3dDQ1eGRhZHMyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GLNELdbPkOgu85cOn3/giphy.gif" alt="Coder GIF" height="280">][MyProfile]
 <hr/>
 
-
-### I am a Self-taught Data Wizard. Currently I am a Technical Specialist-IT [@Voltup.in](https://voltup.in/).
+### I am a Self-taught Python & SQL Developer. Currently I am a Technical Specialist-IT [@Voltup.in](https://voltup.in/).
 - 🔭 I’m currently working on Databricks
 - 🌱 I’m currently learning Data Engineering & Data Analysis.
 - 💬 Ask me about MIS Reporting and Automation
@@ -14,11 +15,12 @@
 
 <hr/>
 
-### 🤝📲💬 Connect with me:
+### 🤝💬 Connect with me:
 [<img align="left" alt="subhamrex | LinkedIn" width="25px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png" />][LinkedIn]
 [<img align="left" alt="subhamrex | Twitter" width="35px" src="https://dwglogo.com/wp-content/uploads/2019/02/Twitter_logo.png" />][Twitter]
 <!--[<img align="left" alt="subhamrex | Instagram" width="25px" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" />][Instagram]-->
 [<img align="left" alt="manthan-ladva | GithubProfile" width="25px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />][MyProfile]
+<a href="mailto:manthanladva999@gmail.com"><img align="left" alt="GMail" width="30px" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png"/>
 <br />
 
 [<img align="right"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemR5dnkxZmtzMHdsdHY3Z3ZiNnhsdHlqZWttZm5hdHd5cjJraWFkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Coder GIF" height="280">][MyProfile]
@@ -65,11 +67,11 @@
 <br />
 ### -> Cloud Tools 🌥️
 [<img align="left" alt="Azure" width="33px" src="https://www.c-sharpcorner.com/UploadFile/BlogImages/01232023170209PM/Azure%20Icon.png"/>][Azure]
-[<img align="left" alt="Azure Storage Account" width="33px" src="https://i0.wp.com/mattruma.com/wp-content/uploads/2020/02/Icon-storage-86-Storage-Accounts-1.png?fit=400%2C400&ssl=1"/>][Azure Storage Account]
-[<img align="left" alt="Azure VM" width="33px" src="https://static-00.iconduck.com/assets.00/azure-vms-color-icon-2048x1891-chkcdc9i.png"/>][Azure VM]
 [<img align="left" alt="Azure Data Factory" width="33px" src="https://seeklogo.com/images/A/azure-data-factory-logo-06B3BC2DAD-seeklogo.com.png"/>][Azure Data Factory]
 [<img align="left" alt="Azure Storage Account" width="33px" src="https://seeklogo.com/images/A/azure-synapse-analytics-logo-B87A556A9C-seeklogo.com.png"/>][Azure Synapse Analytics]
 [<img align="left" alt="Azure Databricks" width="33px" src="https://asset.brandfetch.io/idSUrLOWbH/idIDtj7hqp.png"/>][Azure Databricks]
+[<img align="left" alt="Azure Storage Account" width="33px" src="https://i0.wp.com/mattruma.com/wp-content/uploads/2020/02/Icon-storage-86-Storage-Accounts-1.png?fit=400%2C400&ssl=1"/>][Azure Storage Account]
+[<img align="left" alt="Azure VM" width="33px" src="https://static-00.iconduck.com/assets.00/azure-vms-color-icon-2048x1891-chkcdc9i.png"/>][Azure VM]
 <br/>
 <!--<br/>
 [<img align="left" alt="Azure" width="33px" src="https://www.c-sharpcorner.com/UploadFile/BlogImages/01232023170209PM/Azure%20Icon.png"/>][Azure]
