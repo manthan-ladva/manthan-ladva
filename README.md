@@ -20,7 +20,7 @@
 [<img align="left" alt="subhamrex | Twitter" width="35px" src="https://dwglogo.com/wp-content/uploads/2019/02/Twitter_logo.png" />][Twitter]
 <!--[<img align="left" alt="subhamrex | Instagram" width="25px" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" />][Instagram]-->
 [<img align="left" alt="manthan-ladva | GithubProfile" width="25px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />][MyProfile]
-[<a href="mailto:manthanladva999@gmail.com"><img align="left" alt="GMail" width="30px" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png"/>]
+<a href="mailto:manthanladva999@gmail.com"><img align="left" alt="GMail" width="30px" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png"/></a>
 <br />
 
 [<img align="right"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemR5dnkxZmtzMHdsdHY3Z3ZiNnhsdHlqZWttZm5hdHd5cjJraWFkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Coder GIF" height="280">][MyProfile]
