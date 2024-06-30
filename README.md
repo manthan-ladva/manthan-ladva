@@ -59,14 +59,18 @@
 [<img align="left" alt="Excel" width="60px" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png"/>][Excel]
 [<img align="left" alt="LS" width="75px" border="1" cellpadding="4" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/2560px-Looker.svg.png"/>][Looker Studio]
 <br />
-
-
-
-
+<br />
+[<img align="left" alt="Pandas" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png"/>][Pandas]
+<br />
+<br />
+### -> Cloud Tools
+[<img align="left" alt="a" width="55px" src="https://www.business-central-app.it/wp-content/uploads/2021/12/logo-azure.png"/>][Azure]
+[<img align="left" alt="Azure Storage Account" width="33px" src="https://i0.wp.com/mattruma.com/wp-content/uploads/2020/02/Icon-storage-86-Storage-Accounts-1.png?fit=400%2C400&ssl=1"/>][Azure Storage Account]
+[<img align="left" alt="VM" width="33px" src="https://static-00.iconduck.com/assets.00/azure-vms-color-icon-2048x1891-chkcdc9i.png"/>][Azure VM]
 
 <br/>
 
-[<img align="right"  src="https://i.imgur.com/rLFiAr5.gif" alt="Coder GIF" height="280">][myprofile]
+[<img align="right"  src="https://i.imgur.com/rLFiAr5.gif" alt="Coder GIF" height="280">][MyProfile]
 
 
 
@@ -103,3 +107,4 @@
 [PostgreSQL]:https://www.postgresql.org/
 [Excel]:https://www.microsoft.com/en-in/microsoft-365/excel/
 [Looker Studio]:https://lookerstudio.google.com/u/0/navigation/reporting/
+[Pandas]:https://pandas.pydata.org/
