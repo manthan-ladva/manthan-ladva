@@ -4,7 +4,7 @@
 [<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVibjByYXdhZW42YWc5aWttaGsxZW0zb3BwZ2F3dDQ1eGRhZHMyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GLNELdbPkOgu85cOn3/giphy.gif" alt="Coder GIF" height="280">][MyProfile]
 <hr/>
 
-### I am a Self-taught Python & SQL Developer. Currently I am a Technical Specialist-IT [@Voltup.in](https://voltup.in/).
+### A Self-taught Python & SQL Developer. Currently I am a Technical Specialist-IT [@Voltup.in](https://voltup.in/).
 - 🔭 I’m currently working on Databricks
 - 🌱 I’m currently learning Data Engineering & Data Analysis.
 - 💬 Ask me about MIS Reporting and Automation
