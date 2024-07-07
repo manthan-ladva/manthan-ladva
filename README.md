@@ -97,7 +97,24 @@
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manthan-ladva&show_icons=true&hide_border=true&hide=stars,prs,issues&theme=radical" />
 </details>
 -->
+<hr/>
 
+# 📂 Portfolio Projects
+<details>
+  <summary>💽 Data Engineering Projects</summary>
+  🎯<a href="https://github.com/manthan-ladva/DE-Uber-Analysis-Azure">DE-Uber-Analysis-Azure</a>
+  <br/>
+  🎯<a href="https://github.com/manthan-ladva/DE-Kaggle-Airflow-Azure/">DE-Kaggle-Airflow-Azure</a>
+  <br/>
+</details>
+<!--<details>
+  <summary>💽 Data Analysis Projects</summary>
+  🎯<a href="https://github.com/manthan-ladva/DE-Uber-Analysis-Azure">DE-Uber-Analysis-Azure</a>
+  <br/>
+  🎯<a href="https://github.com/manthan-ladva/DE-Kaggle-Airflow-Azure/">DE-Kaggle-Airflow-Azure</a>
+  <br/>
+</details>
+-->
 
 <br/>
 
