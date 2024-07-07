@@ -74,29 +74,11 @@
 [<img align="left" alt="Azure Storage Account" width="33px" src="https://i0.wp.com/mattruma.com/wp-content/uploads/2020/02/Icon-storage-86-Storage-Accounts-1.png?fit=400%2C400&ssl=1"/>][Azure Storage Account]
 [<img align="left" alt="Azure VM" width="33px" src="https://static-00.iconduck.com/assets.00/azure-vms-color-icon-2048x1891-chkcdc9i.png"/>][Azure VM]
 <br/>
-<!--<br/>
-[<img align="left" alt="Azure" width="33px" src="https://www.c-sharpcorner.com/UploadFile/BlogImages/01232023170209PM/Azure%20Icon.png"/>][Azure]
-[<img align="left" alt="Azure Storage Account" width="33px" src="https://i0.wp.com/mattruma.com/wp-content/uploads/2020/02/Icon-storage-86-Storage-Accounts-1.png?fit=400%2C400&ssl=1"/>][Azure Storage Account]
-[<img align="left" alt="VM" width="33px" src="https://static-00.iconduck.com/assets.00/azure-vms-color-icon-2048x1891-chkcdc9i.png"/>][Azure VM]
-[<img align="left" alt="Azure Data Factory" width="33px" src="https://seeklogo.com/images/A/azure-data-factory-logo-06B3BC2DAD-seeklogo.com.png"/>][Azure Data Factory]
-[<img align="left" alt="Azure Storage Account" width="33px" src="https://seeklogo.com/images/A/azure-synapse-analytics-logo-B87A556A9C-seeklogo.com.png"/>][Azure Synapse Analytics]
-[<img align="left" alt="VM" width="33px" src="https://static-00.iconduck.com/assets.00/azure-vms-color-icon-2048x1891-chkcdc9i.png"/>][Azure VM]
+<br/>
+[<img align="left" alt="Azure Storage Account" width="125px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png"/>][Airflow]
 <br/>
 <br/>
-[<img align="left" alt="Azure" width="33px" src="https://www.c-sharpcorner.com/UploadFile/BlogImages/01232023170209PM/Azure%20Icon.png"/>][Azure]
-[<img align="left" alt="Azure Storage Account" width="33px" src="https://i0.wp.com/mattruma.com/wp-content/uploads/2020/02/Icon-storage-86-Storage-Accounts-1.png?fit=400%2C400&ssl=1"/>][Azure Storage Account]
-[<img align="left" alt="VM" width="33px" src="https://static-00.iconduck.com/assets.00/azure-vms-color-icon-2048x1891-chkcdc9i.png"/>][Azure VM]
-[<img align="left" alt="Azure Data Factory" width="33px" src="https://seeklogo.com/images/A/azure-data-factory-logo-06B3BC2DAD-seeklogo.com.png"/>][Azure Data Factory]
-[<img align="left" alt="Azure Storage Account" width="33px" src="https://seeklogo.com/images/A/azure-synapse-analytics-logo-B87A556A9C-seeklogo.com.png"/>][Azure Synapse Analytics]
-[<img align="left" alt="VM" width="33px" src="https://static-00.iconduck.com/assets.00/azure-vms-color-icon-2048x1891-chkcdc9i.png"/>][Azure VM]
--->
-<!--
-<hr/>
-<details>
-  <summary>:🥇Certifications</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manthan-ladva&show_icons=true&hide_border=true&hide=stars,prs,issues&theme=radical" />
-</details>
--->
+
 <hr/>
 
 # 📂 Portfolio Projects
@@ -159,3 +141,4 @@
 [Azure Data Factory]:https://azure.microsoft.com/en-in/products/data-factory/
 [Azure Synapse Analytics]:https://azure.microsoft.com/en-us/products/synapse-analytics/
 [Azure Databricks]:https://www.databricks.com/
+[Airflow]:https://airflow.apache.org/
