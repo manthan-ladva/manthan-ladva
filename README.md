@@ -40,7 +40,7 @@
 
 ### -> Tools 🔧
 [<img align="left" alt="Pycharm" width="33px" src="https://i.imgur.com/N3UnDaG.png" />][PyCharm]
-[<img align="left" alt="vscode" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
+[<img align="left" alt="vscode" width="33px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" />][VSCode]
 [<img align="left" alt="Jupyter" width="33px" src="https://i.imgur.com/f5M1VWO.png" />][Jupyter]
 [<img align="left" alt="anaconda" width="40px" src="https://i.imgur.com/SUxYIXm.png" />][Anaconda]
 <br/>
