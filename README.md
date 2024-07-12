@@ -81,7 +81,7 @@
 
 <hr/>
 
-# 📂 Portfolio Projects
+# <img src="https://media.giphy.com/media/sUvXqhA9nukbIM0MyO/giphy.gif?cid=790b7611wi4yz00jy94qjjk60med6ysj799e54uoq04angzw&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35px"> Portfolio Projects
 <details>
   <summary>💽 Data Engineering Projects</summary>
   🎯<a href="https://github.com/manthan-ladva/DE-Uber-Analysis-Azure">DE-Uber-Analysis-Azure</a>
