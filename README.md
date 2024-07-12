@@ -15,7 +15,7 @@
 
 <hr/>
 
-### 🤝💬 Connect with me:
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzd3d2JtNmZzanlqemNxdzI2ajRjdGNtYWZqaXgzaHV4YnN0aHZndCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="25px"> Connect with me:
 [<img align="left" alt="subhamrex | LinkedIn" width="25px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png" />][LinkedIn]
 [<img align="left" alt="subhamrex | Twitter" width="35px" src="https://dwglogo.com/wp-content/uploads/2019/02/Twitter_logo.png" />][Twitter]
 <!--[<img align="left" alt="subhamrex | Instagram" width="25px" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" />][Instagram]-->
