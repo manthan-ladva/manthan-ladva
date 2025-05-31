@@ -54,7 +54,7 @@
 ### -> Databases & Data Analysis Tools 📀
 [<img align="left" alt="PostgreSQL" width="33px" src="https://marketplacedesignoye.s3.ap-south-1.amazonaws.com/postgresql-branding-icon-symbol-logo-vector-.png" />][PostgreSQL]
 [<img align="left" alt="MySQL" width="50px" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" />][MySQL]
-[<img align="left" alt="Azure SQL" width="25px" src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png"/>][Azure SQL]
+[<img align="left" alt="Azure SQL" width="30px" src="https://icon2.cleanpng.com/20180611/ipg/aa8k6rg0g.webp"/>][Azure SQL]
 [<img align="left" alt="MongoDB" width="33px" src="https://i.imgur.com/uyStyoI.png" />][MongoDB]
 <br/>
 <br/>
@@ -68,8 +68,8 @@
 <br />
 ### -> Cloud Tools 🌥️
 [<img align="left" alt="Azure" width="33px" src="https://www.c-sharpcorner.com/UploadFile/BlogImages/01232023170209PM/Azure%20Icon.png"/>][Azure]
-[<img align="left" alt="Azure Data Factory" width="33px" src="https://seeklogo.com/images/A/azure-data-factory-logo-06B3BC2DAD-seeklogo.com.png"/>][Azure Data Factory]
-[<img align="left" alt="Azure Storage Account" width="33px" src="https://seeklogo.com/images/A/azure-synapse-analytics-logo-B87A556A9C-seeklogo.com.png"/>][Azure Synapse Analytics]
+[<img align="left" alt="Azure Data Factory" width="33px" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/03/azure_data_factory_logo_freelogovectors.net_.png"/>][Azure Data Factory]
+[<img align="left" alt="Azure Storage Account" width="33px" src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-azurestorage/0.16.5/1748553541486/Microsoft.VisualStudio.Services.Icons.Default"/>][Azure Synapse Analytics]
 [<img align="left" alt="Azure Databricks" width="33px" src="https://asset.brandfetch.io/idSUrLOWbH/idIDtj7hqp.png"/>][Azure Databricks]
 [<img align="left" alt="Azure Storage Account" width="33px" src="https://i0.wp.com/mattruma.com/wp-content/uploads/2020/02/Icon-storage-86-Storage-Accounts-1.png?fit=400%2C400&ssl=1"/>][Azure Storage Account]
 [<img align="left" alt="Azure VM" width="33px" src="https://static-00.iconduck.com/assets.00/azure-vms-color-icon-2048x1891-chkcdc9i.png"/>][Azure VM]
