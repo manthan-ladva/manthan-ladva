@@ -1,7 +1,7 @@
 ## Hi there, I am Manthan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### I am a Data Wizard. 
 
-[<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVibjByYXdhZW42YWc5aWttaGsxZW0zb3BwZ2F3dDQ1eGRhZHMyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GLNELdbPkOgu85cOn3/giphy.gif" alt="Coder GIF" height="280">][MyProfile]
+[<img align="right" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Gifs/readme_md_data_finder.gif" alt="Coder GIF" height="280">][MyProfile]
 <hr/>
 
 ### A Self-taught Python & SQL Developer. Currently I am a Technical Specialist-IT [@Voltup.in](https://voltup.in/), where I lead MIS Reporting and Automation to enhance data-driven decision-making.
@@ -16,7 +16,7 @@
 <hr/>
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzd3d2JtNmZzanlqemNxdzI2ajRjdGNtYWZqaXgzaHV4YnN0aHZndCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="25px"> Connect with me:
-[<img align="left" alt="subhamrex | LinkedIn" width="25px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png" />][LinkedIn]
+[<img align="left" alt="subhamrex | LinkedIn" width="25px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/linkedin.png" />][LinkedIn]
 [<img align="left" alt="subhamrex | Twitter" width="40px" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" />][Twitter]
 <!--[<img align="left" alt="subhamrex | Instagram" width="25px" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" />][Instagram]-->
 [<img align="left" alt="manthan-ladva | GithubProfile" width="25px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />][MyProfile]
@@ -43,7 +43,7 @@
 
 | Cloud Tools 🌥️ |
 | :----------: |
-| [<img align="left" alt="Azure" width="33px" src="https://www.c-sharpcorner.com/UploadFile/BlogImages/01232023170209PM/Azure%20Icon.png"/>][Azure] [<img align="left" alt="Azure Data Factory" width="33px" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/03/azure_data_factory_logo_freelogovectors.net_.png"/>][Azure Data Factory] [<img align="left" alt="Azure Storage Account" width="33px" src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-azurestorage/0.16.5/1748553541486/Microsoft.VisualStudio.Services.Icons.Default"/>][Azure Synapse Analytics] [<img align="left" alt="Azure Databricks" width="33px" src="https://asset.brandfetch.io/idSUrLOWbH/idIDtj7hqp.png"/>][Azure Databricks] [<img align="left" alt="Azure Storage Account" width="33px" src="https://i0.wp.com/mattruma.com/wp-content/uploads/2020/02/Icon-storage-86-Storage-Accounts-1.png?fit=400%2C400&ssl=1"/>][Azure Storage Account] [<img align="left" alt="Azure VM" width="33px" src="https://symbols.getvecta.com/stencil_27/97_virtual-machine.21c22fa0f5.jpg"/>][Azure VM] [<img align="left" alt="Azure Storage Account" width="125px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png"/>][Airflow] |
+| [<img align="left" alt="Azure" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/azure.png"/>][Azure] [<img align="left" alt="Azure Data Factory" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/azure_data_factory.png"/>][Azure Data Factory] [<img align="left" alt="Azure Storage Account" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/azure_synapse_analytics.png"/>][Azure Synapse Analytics] [<img align="left" alt="Azure Databricks" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/databricks.png"/>][Azure Databricks] [<img align="left" alt="Azure Storage Account" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/azure_storage_account.webp"/>][Azure Storage Account] [<img align="left" alt="Azure VM" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/azure_vm.jpg"/>][Azure VM] [<img align="left" alt="Azure Storage Account" width="125px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/airflow.png"/>][Airflow] |
 
 
 <hr/>
@@ -70,7 +70,7 @@
 
 <br/>
 
-[<img align="right"  src="https://i.imgur.com/rLFiAr5.gif" alt="Coder GIF" height="280">][MyProfile]
+[<img align="right"  src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Gifs/github.gif" alt="Coder GIF" height="280">][MyProfile]
 
 
 
