@@ -17,17 +17,17 @@
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzd3d2JtNmZzanlqemNxdzI2ajRjdGNtYWZqaXgzaHV4YnN0aHZndCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="25px"> Connect with me:
 [<img align="left" alt="subhamrex | LinkedIn" width="25px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/linkedin.png" />][LinkedIn]
-[<img align="left" alt="subhamrex | Twitter" width="40px" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" />][Twitter]
+[<img align="left" alt="subhamrex | Twitter" width="40px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/twitter.png" />][Twitter]
 <!--[<img align="left" alt="subhamrex | Instagram" width="25px" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" />][Instagram]-->
-[<img align="left" alt="manthan-ladva | GithubProfile" width="25px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />][MyProfile]
-<a href="mailto:manthanladva999@gmail.com"><img align="left" alt="GMail" width="30px" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png"/></a>
-[<img align="left" alt="manthan-ladva | Portfolio" width="30px" src="https://static.vecteezy.com/system/resources/previews/005/569/210/non_2x/portfolio-icon-in-trendy-long-shadow-style-isolated-on-soft-blue-background-free-vector.jpg" />][Portfolio]
+[<img align="left" alt="manthan-ladva | GithubProfile" width="25px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/github.png" />][MyProfile]
+<a href="mailto:manthanladva999@gmail.com"><img align="left" alt="GMail" width="30px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/gmail.png"/></a>
+[<img align="left" alt="manthan-ladva | Portfolio" width="30px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/portfolio.jpg" />][Portfolio]
 
 <br />
 
 <hr/>
 
-[<img align="right"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemR5dnkxZmtzMHdsdHY3Z3ZiNnhsdHlqZWttZm5hdHd5cjJraWFkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Coder GIF" height="250">][MyProfile]
+[<img align="right"  src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Gifs/readme_md_data_dosent_lie.gif" alt="Coder GIF" height="250">][MyProfile]
 
 
 
