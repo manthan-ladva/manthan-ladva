@@ -53,21 +53,71 @@
 
 
 
+## 🚀 Portfolio Projects
+
+Real-world projects focused on **data engineering, automation, and analytics**.
 <details>
-  <summary>💽 Data Engineering Projects</summary>
-  🎯<a href="https://github.com/manthan-ladva/DE-Uber-Analysis-Azure">DE-Uber-Analysis-Azure</a>
-  <br/>
-  🎯<a href="https://github.com/manthan-ladva/DE-Kaggle-Airflow-Azure/">DE-Kaggle-Airflow-Azure</a>
-  <br/>
+<summary><strong>💽 Data Engineering Projects</strong> (Real-time, Batch, Cloud)</summary>
+
+<br/>
+
+### 🔹 Draive – Real-Time Vehicle & Battery Telematics
+**Tech:** Python, PostgreSQL, MQTT, Airflow, Azure Blob  
+
+- Built high-throughput MQTT ingestion pipelines  
+- Designed idempotent UPSERT logic in PostgreSQL  
+- Implemented per-day, per-device Parquet storage  
+
+📌 Focus: Real-time ingestion, scalability, observability  
+🔗 Repo: <i>Private / Internal</i>
+
+---
+
+### 🔹 Uber Data Analytics Pipeline (Azure)
+**Tech:** Azure Data Factory, Azure SQL, Power BI  
+
+- End-to-end ETL pipeline for trip & revenue data  
+- Analytics-ready schema + dashboards  
+
+🔗 Repo: https://github.com/manthan-ladva/DE-Uber-Analysis-Azure
+
+---
+
+### 🔹 Airflow-Based Kaggle Pipeline
+**Tech:** Apache Airflow, Python, Azure Storage  
+
+- Automated ingestion using DAG-based orchestration  
+- Modular, reusable pipeline design  
+
+🔗 Repo: https://github.com/manthan-ladva/DE-Kaggle-Airflow-Azure
+
 </details>
-<!--<details>
-  <summary>💽 Data Analysis Projects</summary>
-  🎯<a href="https://github.com/manthan-ladva/DE-Uber-Analysis-Azure">DE-Uber-Analysis-Azure</a>
-  <br/>
-  🎯<a href="https://github.com/manthan-ladva/DE-Kaggle-Airflow-Azure/">DE-Kaggle-Airflow-Azure</a>
-  <br/>
+
+<details>
+<summary><strong>📊 Data Analysis & BI Projects</strong></summary>
+
+<br/>
+
+### 🔹 MIS Dashboards & Reporting
+- Power BI dashboards for operations & management  
+- SQL-optimized reporting layers  
+
+📌 Focus: Business KPIs, performance, decision support
+
 </details>
--->
+
+<details>
+<summary><strong>🧪 Experiments & Learning Projects</strong></summary>
+
+<br/>
+
+- Kafka integration experiments  
+- DuckDB performance testing  
+- Schema design POCs  
+
+</details>
+
+
 
 <br/>
 
