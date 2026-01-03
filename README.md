@@ -1,19 +1,123 @@
-## Hi there, I am Manthan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### I am a Data Wizard. 
+## Hi, I'm Manthan Ladva. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### **Data Engineer | Analytics Engineer | Python & SQL** 
 
 [<img align="right" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Gifs/readme_md_data_finder.gif" alt="Coder GIF" height="280">][MyProfile]
 <hr/>
 
-### A Self-taught Python & SQL Developer. Currently I am a Technical Specialist-IT [@Voltup.in](https://voltup.in/), where I lead MIS Reporting and Automation to enhance data-driven decision-making.
-- 🔭 I’m currently working on PowerBI.
-- 🌱 I’m currently learning Data Engineering & Data Analysis.
-- 💬 Ask me about MIS Reporting and Automation
-- ⚡ Fun fact: I ❤️ Anime & Paneer Biryani.
+### What I Work On
+- Real-time & batch data pipelines  
+- MQTT-based ingestion and processing systems  
+- PostgreSQL performance optimization & UPSERT-heavy workloads  
+- Power BI dashboards for business & operations  
+
+
+<hr/>
+
+
+# <img src="https://media.giphy.com/media/sUvXqhA9nukbIM0MyO/giphy.gif?cid=790b7611wi4yz00jy94qjjk60med6ysj799e54uoq04angzw&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35px"> Portfolio Projects
+Real-world projects focused on data engineering, automation, and analytics.
+
+[<img align="right"  src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Gifs/readme_md_data_dosent_lie.gif" alt="Coder GIF" height="250">][MyProfile]
+
+### 🔹 Draive – Real-Time Vehicle & Battery Telematics Platform
+**Role:** Data Engineer & Data Analytics 
+**Domain:** IoT / Telematics  
+**Tech Exposure:** Python, SQL, Message-Based Ingestion, Cloud-Storage
+
+- Worked on real-time ingestion and processing of telemetry data  
+- Designed reliable data pipelines with a focus on idempotency and consistency  
+- Implemented structured logging and monitoring for observability  
+- Supported analytics and reporting use cases with optimized data storage  
+
+📌 Focus: Scalability, Reliability, Production Readiness  
+🔒 Professional Project – Internal Systems
+
 <br/>
+
+<details>
+<summary><strong>💽 Data Engineering Projects</strong></summary>
+  
+### 🔹 Uber Data Analytics Pipeline (Azure)
+- Azure Data Factory based ETL
+- Analytics-ready schema & Power BI dashboards  
+🔗 https://github.com/manthan-ladva/DE-Uber-Analysis-Azure
+
+
+### 🔹 Airflow-Based Kaggle Pipeline
+- DAG-driven ingestion & transformation
+- Modular and reusable design  
+🔗 https://github.com/manthan-ladva/DE-Kaggle-Airflow-Azure
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>📊 Data Analytics Projects</strong></summary>
+
+<br/>
+
+- MIS reporting automation at VoltUp  
+- Power BI dashboards for management & operations  
+
+</details>
+
+<hr/>
+
+
+
+## 🛠 Technical Stack
+
+| Languages 👨‍💻 | Databases 📊 | Analytics 📈 | Data & Orchestration 🥁| Frameworks ⚙️ |
+| :----------: | :----------: | :----------: | :----------: | :----------: |
+| [<img align="left" alt="python" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/python.png" />][Python] [<img align="left" alt="SQL" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/sql_server.png" />][SQL] | [<img align="left" alt="PostgreSQL" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/postgresql.png" />][PostgreSQL] [<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/mysql.png" />][MySQL] | [<img align="left" alt="PowerBI" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/powerbi.jpeg"/>][PowerBI] [<img align="left" alt="Excel" width="60px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/ms_excel.png"/>][Excel]  | [<img align="left" alt="Azure Storage Account" width="125px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/airflow.png"/>][Airflow] | [<img align="left" alt="Flask" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/flask.png" />][Flask] [<img align="left" alt="FastAPI" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/fastapi.png" />][Fast API] | 
+| [<img align="left" alt="R" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/r.png" />][R] | [<img align="left" alt="MongoDB" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/mongo.png" />][MongoDB] [<img align="left" alt="Azure SQL" width="30px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/azure_sql_server.webp"/>][Azure SQL] | [<img align="left" alt="LS" width="80px" border="1" cellpadding="4" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/looker.png"/>][Looker Studio] | [<img align="left" alt="MQTT" width="45px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/mqtt.png"/>][MQTT] [<img align="left" alt="Pandas" width="80px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/pandas.png"/>][Pandas] | [<img align="left" alt="gitbash" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/git.png" />][Git] 
+
+| Cloud 🌥️ | Cloud Env. |
+| :----------: | :----------: |
+| [<img align="left" alt="Azure" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/azure.png"/>][Azure] | [<img align="left" alt="Azure Data Factory" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/azure_data_factory.png"/>][Azure Data Factory] [<img align="left" alt="Azure Synapse Analytics" width="50px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/azure_synapse_analytics.png"/>][Azure Synapse Analytics] [<img align="left" alt="Azure Databricks" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/databricks.png"/>][Azure Databricks] [<img align="left" alt="Azure Storage Account" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/azure_storage_account.webp"/>][Azure Storage Account] [<img align="left" alt="Azure VM" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/azure_vm.jpg"/>][Azure VM] |
+
+<!--
+ [<img align="left" alt="Pycharm" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/pycharm.png" />][PyCharm] [<img align="left" alt="vscode" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/vs_code.webp" />][VSCode] [<img align="left" alt="Jupyter" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/jupyter_notebook.png" />][Jupyter] |
+  | [<img align="left" alt="anaconda" width="40px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/anaconda.png" />][Anaconda] [<img align="left" alt="Notepad++" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/notebook++.png" />][Notepad++] |
+| |    | 
+
+
+
+
+
+**Languages:** Python, SQL
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**Data & Orchestration:** Airflow, MQTT, Pandas  
+**BI & Analytics:** Power BI, Excel, Looker Studio  
+**Cloud:** Azure (ADF, Storage, SQL, VM)  
+**Frameworks:** Flask, FastAPI  
+-->
 
 
 
 <hr/>
+
+
+
+
+
+### 💼 Experience
+
+**Technical Specialist – IT | [@Voltup.in](https://voltup.in/)**
+- Led MIS reporting & automation initiatives
+[<img align="right"  src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Gifs/github.gif" alt="Coder GIF" height="280">][MyProfile]
+- Built SQL- and Python-driven reporting pipelines
+- Enabled faster decision-making via dashboards
+
+
+
+### 👤 About Me
+- Self-taught Python & SQL developer  
+- Interested in Data Engineering & Analytics Systems  
+- Anime & Paneer Biryani Enthusiast 😄  
+
+
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzd3d2JtNmZzanlqemNxdzI2ajRjdGNtYWZqaXgzaHV4YnN0aHZndCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="25px"> Connect with me:
 [<img align="left" alt="subhamrex | LinkedIn" width="25px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/linkedin.png" />][LinkedIn]
@@ -23,116 +127,21 @@
 <a href="mailto:manthanladva999@gmail.com"><img align="left" alt="GMail" width="30px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/gmail.png"/></a>
 [<img align="left" alt="manthan-ladva | Portfolio" width="30px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/portfolio.jpg" />][Portfolio]
 
-<br />
-
-<hr/>
-
-[<img align="right"  src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Gifs/readme_md_data_dosent_lie.gif" alt="Coder GIF" height="250">][MyProfile]
 
 
 
 
-
-### ⚙ Languages & Tools Proficiency:
-
-| Languages 👨‍💻 | Data Tools 📊 | Coding Tools 📀 |
-| :----------: | :----------: | :----------: |
-| [<img align="left" alt="python" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/python.png" />][Python] [<img align="left" alt="SQL" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/sql_server.png" />][SQL] | [<img align="left" alt="PowerBI" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/powerbi.jpeg"/>][PowerBI] [<img align="left" alt="Excel" width="60px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/ms_excel.png"/>][Excel] [<img align="left" alt="PostgreSQL" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/postgresql.png" />][PostgreSQL] | [<img align="left" alt="Pycharm" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/pycharm.png" />][PyCharm] [<img align="left" alt="vscode" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/vs_code.webp" />][VSCode] [<img align="left" alt="Jupyter" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/jupyter_notebook.png" />][Jupyter] |
-| [<img align="left" alt="R" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/r.png" />][R] | [<img align="left" alt="LS" width="80px" border="1" cellpadding="4" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/looker.png"/>][Looker Studio] [<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/mysql.png" />][MySQL] | [<img align="left" alt="anaconda" width="40px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/anaconda.png" />][Anaconda] [<img align="left" alt="Notepad++" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/notebook++.png" />][Notepad++] |
-| | [<img align="left" alt="Azure SQL" width="30px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/azure_sql_server.webp"/>][Azure SQL] [<img align="left" alt="MongoDB" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/mongo.png" />][MongoDB] [<img align="left" alt="Pandas" width="80px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/pandas.png"/>][Pandas] | [<img align="left" alt="gitbash" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/git.png" />][Git] [<img align="left" alt="Flask" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/flask.png" />][Flask] [<img align="left" alt="FastAPI" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/fastapi.png" />][Fast API] | 
-
-
-| Cloud Tools 🌥️ |
-| :----------: |
-| [<img align="left" alt="Azure" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/azure.png"/>][Azure] [<img align="left" alt="Azure Data Factory" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/azure_data_factory.png"/>][Azure Data Factory] [<img align="left" alt="Azure Synapse Analytics" width="50px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/azure_synapse_analytics.png"/>][Azure Synapse Analytics] [<img align="left" alt="Azure Databricks" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/databricks.png"/>][Azure Databricks] [<img align="left" alt="Azure Storage Account" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/azure_storage_account.webp"/>][Azure Storage Account] [<img align="left" alt="Azure VM" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/azure_vm.jpg"/>][Azure VM] [<img align="left" alt="Azure Storage Account" width="125px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/airflow.png"/>][Airflow] |
-
-
-<hr/>
-
-# <img src="https://media.giphy.com/media/sUvXqhA9nukbIM0MyO/giphy.gif?cid=790b7611wi4yz00jy94qjjk60med6ysj799e54uoq04angzw&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35px"> Portfolio Projects
-
-
-
-## 🚀 Portfolio Projects
-
-Real-world projects focused on **data engineering, automation, and analytics**.
-<details>
-<summary><strong>💽 Data Engineering Projects</strong> (Real-time, Batch, Cloud)</summary>
+<!--
 
 <br/>
-
-### 🔹 Draive – Real-Time Vehicle & Battery Telematics
-**Tech:** Python, PostgreSQL, MQTT, Airflow, Azure Blob  
-
-- Built high-throughput MQTT ingestion pipelines  
-- Designed idempotent UPSERT logic in PostgreSQL  
-- Implemented per-day, per-device Parquet storage  
-
-📌 Focus: Real-time ingestion, scalability, observability  
-🔗 Repo: <i>Private / Internal</i>
-
----
-
-### 🔹 Uber Data Analytics Pipeline (Azure)
-**Tech:** Azure Data Factory, Azure SQL, Power BI  
-
-- End-to-end ETL pipeline for trip & revenue data  
-- Analytics-ready schema + dashboards  
-
-🔗 Repo: https://github.com/manthan-ladva/DE-Uber-Analysis-Azure
-
----
-
-### 🔹 Airflow-Based Kaggle Pipeline
-**Tech:** Apache Airflow, Python, Azure Storage  
-
-- Automated ingestion using DAG-based orchestration  
-- Modular, reusable pipeline design  
-
-🔗 Repo: https://github.com/manthan-ladva/DE-Kaggle-Airflow-Azure
-
-</details>
-
-<details>
-<summary><strong>📊 Data Analysis & BI Projects</strong></summary>
-
+<br/>
 <br/>
 
-### 🔹 MIS Dashboards & Reporting
-- Power BI dashboards for operations & management  
-- SQL-optimized reporting layers  
-
-📌 Focus: Business KPIs, performance, decision support
-
-</details>
-
-<details>
-<summary><strong>🧪 Experiments & Learning Projects</strong></summary>
-
-<br/>
-
-- Kafka integration experiments  
-- DuckDB performance testing  
-- Schema design POCs  
-
-</details>
-
-
-
-<br/>
-
-[<img align="right"  src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Gifs/github.gif" alt="Coder GIF" height="280">][MyProfile]
-
-
-
-
-
-<hr/>
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manthan-ladva&show_icons=true&hide_border=true&hide=stars,prs,issues&theme=radical" />
 </details>
-
+-->
 
 [MyProfile]:https://github.com/manthan-ladva
 [Anaconda]:https://www.anaconda.com/
@@ -165,3 +174,4 @@ Real-world projects focused on **data engineering, automation, and analytics**.
 [Fast API]:https://fastapi.tiangolo.com/
 [Airflow]:https://airflow.apache.org/
 [Portfolio]:https://codebasics.io/portfolio/Manthan-Ladva
+[MQTT]:https://mqtt.org/
