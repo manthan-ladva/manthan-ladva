@@ -5,10 +5,12 @@
 <hr/>
 
 ### What I Work On
-- Real-time & batch data pipelines  
-- MQTT-based ingestion and processing systems  
-- PostgreSQL performance optimization & UPSERT-heavy workloads  
-- Power BI dashboards for business & operations  
+- End-to-end ownership of real-time and batch data pipelines from ingestion to analytics  
+- Event-driven data processing and optimized PostgreSQL write-heavy workloads  
+- MIS data modeling, validation, and automated reporting workflows  
+- Power BI dashboards enabling business, operations, and management decisions  
+
+
 
 
 <hr/>
@@ -24,13 +26,15 @@ Real-world projects focused on data engineering, automation, and analytics.
 **Domain:** IoT / Telematics  
 **Tech Exposure:** Python, SQL, Message-Based Ingestion, Cloud-Storage
 
-- Worked on real-time ingestion and processing of telemetry data  
-- Designed reliable data pipelines with a focus on idempotency and consistency  
-- Implemented structured logging and monitoring for observability  
-- Supported analytics and reporting use cases with optimized data storage  
+- Contributed to real-time data ingestion and processing systems  
+- Built reliable, production-grade data pipelines with strong data consistency guarantees  
+- Implemented standardized logging and monitoring practices  
+- Enabled downstream analytics and MIS reporting use cases  
 
 📌 Focus: Scalability, Reliability, Production Readiness  
 🔒 Professional Project – Internal Systems
+
+
 
 <br/>
 
@@ -105,10 +109,10 @@ Real-world projects focused on data engineering, automation, and analytics.
 ### 💼 Experience
 
 **Technical Specialist – IT | [@Voltup.in](https://voltup.in/)**
-- Led MIS reporting & automation initiatives
+- Owned MIS reporting and automation for business and operational analytics  
 [<img align="right"  src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Gifs/github.gif" alt="Coder GIF" height="280">][MyProfile]
-- Built SQL- and Python-driven reporting pipelines
-- Enabled faster decision-making via dashboards
+- Built SQL- and Python-based data pipelines, backend services, and integrations  
+- Delivered dashboards and data products enabling faster decision-making  
 
 
 
