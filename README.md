@@ -111,8 +111,9 @@ Real-world projects focused on data engineering, automation, and analytics.
 **Technical Specialist – IT | [@Voltup.in](https://voltup.in/)**
 - Owned MIS reporting and automation for business and operational analytics  
 [<img align="right"  src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Gifs/github.gif" alt="Coder GIF" height="280">][MyProfile]
-- Built SQL- and Python-based data pipelines, backend services, and integrations  
-- Delivered dashboards and data products enabling faster decision-making  
+- Built SQL- and Python-based data pipelines  
+- Developed backend services and integrations  
+- Delivered dashboards driving faster decisions  
 
 
 
