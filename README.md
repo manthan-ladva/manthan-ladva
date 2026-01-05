@@ -61,8 +61,17 @@ Real-world projects focused on data engineering, automation, and analytics.
 
 <br/>
 
-- MIS reporting automation at VoltUp  
-- Power BI dashboards for management & operations  
+### 🔹 E-Commerce & Brick-and-Mortar Business Insights 360* (Power BI)
+- Power BI based ETL & Dashboard provides 360* insights
+- The project explores both e-commerce and brick-and-mortar business models
+🔗 https://github.com/manthan-ladva/DA-Brick-n-Mortar-BI
+
+
+### 🔹 Hospitality Insights
+- Power BI based Dashboard covers Hospitality Insights
+- This project explores the hospitality business landscape
+🔗 https://github.com/manthan-ladva/DA-Hospitality-Dashboard
+  
 
 </details>
 
