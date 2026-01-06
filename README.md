@@ -76,6 +76,28 @@ Real-world projects focused on data engineering, automation, and analytics.
 
 </details>
 
+<br/>
+
+<details>
+<summary><strong>🧐 Exploring Projects</strong></summary>
+
+<br/>
+
+### 🔹 Expense Management (FastAPI & Streamlit)
+- Day-to-Day Expense Tracking
+- This project gives you the UI in Streamlit forwarded by Backend in FastAPI & MySQL  
+🔗 https://github.com/manthan-ladva/Expense-Management
+
+
+
+### 🔹 Flutter Apps
+- Explored Flutter while doing course from [AppBrewery](https://appbrewery.com/)
+- This project contains 10 begineer level Flutter Android Application  
+🔗 https://github.com/manthan-ladva/Flutter-Course-App-Brewery
+  
+
+</details>
+
 <hr/>
 
 
@@ -85,7 +107,7 @@ Real-world projects focused on data engineering, automation, and analytics.
 | Languages 👨‍💻 | Databases 📊 | Analytics 📈 | Data & Orchestration 🥁| Frameworks ⚙️ |
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | [<img align="left" alt="python" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/python.png" />][Python] [<img align="left" alt="SQL" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/sql_server.png" />][SQL] | [<img align="left" alt="PostgreSQL" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/postgresql.png" />][PostgreSQL] [<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/mysql.png" />][MySQL] | [<img align="left" alt="PowerBI" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/powerbi.jpeg"/>][PowerBI] [<img align="left" alt="Excel" width="60px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/ms_excel.png"/>][Excel]  | [<img align="left" alt="Azure Storage Account" width="125px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/airflow.png"/>][Airflow] | [<img align="left" alt="Flask" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/flask.png" />][Flask] [<img align="left" alt="FastAPI" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/fastapi.png" />][Fast API] | 
-| [<img align="left" alt="R" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/r.png" />][R] | [<img align="left" alt="MongoDB" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/mongo.png" />][MongoDB] [<img align="left" alt="Azure SQL" width="30px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/azure_sql_server.webp"/>][Azure SQL] | [<img align="left" alt="LS" width="80px" border="1" cellpadding="4" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/looker.png"/>][Looker Studio] | [<img align="left" alt="MQTT" width="45px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/mqtt.png"/>][MQTT] [<img align="left" alt="Pandas" width="80px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/pandas.png"/>][Pandas] | [<img align="left" alt="gitbash" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/git.png" />][Git] 
+| [<img align="left" alt="R" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/r.png" />][R] | [<img align="left" alt="MongoDB" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/mongo.png" />][MongoDB] [<img align="left" alt="Azure SQL" width="30px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Cloud/Azure/azure_sql_server.webp"/>][Azure SQL] | [<img align="left" alt="LS" width="80px" border="1" cellpadding="4" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/looker.png"/>][Looker Studio] | [<img align="left" alt="MQTT" width="45px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/mqtt.png"/>][MQTT] [<img align="left" alt="Pandas" width="80px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Data/pandas.png"/>][Pandas] | [<img align="left" alt="gitbash" width="33px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/git.png" />][Git] [<img align="left" alt="streamit" width="45px" src="https://raw.githubusercontent.com/manthan-ladva/Repo_Images/main/Tools/streamlit_2.png" />][Streamlit] 
 
 | Cloud 🌥️ | Cloud Env. |
 | :----------: | :----------: |
@@ -190,3 +212,4 @@ Real-world projects focused on data engineering, automation, and analytics.
 [Airflow]:https://airflow.apache.org/
 [Portfolio]:https://codebasics.io/portfolio/Manthan-Ladva
 [MQTT]:https://mqtt.org/
+[Streamlit]:https://streamlit.io/
